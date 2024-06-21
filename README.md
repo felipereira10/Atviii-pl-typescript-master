@@ -1,3 +1,14 @@
+**Lista III**
+- O terceiro projeto do PL foca no desenvolvimento de interfaces gráficas sem vinculação com backend, utilizando funções em TypeScript.
+Para executar o programa, utilize os seguintes comandos:
+
+```bash
+cd atviii-pl-typescript-master
+npm install
+npm run start
+```
+________________________________________________________________________________________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
